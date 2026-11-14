@@ -1,0 +1,6 @@
+{
+  "name": "Órbita — Notas em Gravitação",
+  "description": "Aplicativo de notas em Markdown inspirado no Obsidian com mapa cósmico 2D, malha espaço-tempo, movimento orbital e zoom infinito.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
